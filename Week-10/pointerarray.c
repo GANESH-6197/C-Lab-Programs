@@ -9,6 +9,7 @@ int main() {
     for(i = 0; i < 5; i++) {
         printf("%d ", *(ptr + i));
     }
+    printf("\n\n               -25331A05D2");
 
     return 0;
 }
