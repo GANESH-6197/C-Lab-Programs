@@ -18,6 +18,7 @@ int main()
     result = gcd(a, b);
 
     printf("GCD of %d and %d is %d", a, b, result);
+    printf("\n\n             -25331A05D2");
 
     return 0;
 }
