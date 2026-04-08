@@ -14,5 +14,6 @@ if(original==reverse)
 printf("given number is palindrome");
 else
 printf("given number is not a palindrome");
+printf("\n\n             -25331A05D2");
 return 0;
 }
