@@ -11,5 +11,6 @@ scanf("%d",&a[i]);
 sum=sum+a[i];
 }
 printf("sum=%d",sum);
+printf("\n\n       -25331A05D2");
 return 0;
 }
