@@ -13,5 +13,6 @@ int main() {
 
     ptr--;
     printf("After decrement, pointer = %u\n", ptr);
+    printf("\n                -25331A05D2");
     return 0;
 }
