@@ -18,6 +18,7 @@ int main()
     result = fact(n) / (fact(r) * fact(n - r));
 
     printf("Value of nCr = %d", result);
+    printf("\n\n           -25331A05D2");
 
     return 0;
 }
